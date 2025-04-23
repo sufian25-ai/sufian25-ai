@@ -38,15 +38,15 @@
   
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <a hre="https://github.com/esteham">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <a hre="https://github.com/sufian25-ai">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sufian25-ai&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
   </a>
    <a hre="https://github.com/esteham">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=material-palenight&count_private=true" />
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian25-ai&layout=compact&langs_count=8&theme=material-palenight&count_private=true" />
   </a>
 </p>
 <br>
 
 <h3>🌟Contribute</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sufian25-ai&" alt="esteham" /></p>
 
