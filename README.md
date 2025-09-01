@@ -30,7 +30,7 @@
 
 ---## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Vet management system](https://https://wordpress.msufian.xyz//)
+ 1. [Vet management system](https://https://wordpress.msufian.xyz/)
  2. [Movies website](https://react-movies-lac.vercel.app/)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
  4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
