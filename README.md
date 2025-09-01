@@ -28,7 +28,16 @@
 - 💬 Ask me about **Web Development, PHP, JavaScript**
 - ⚡ Fun fact: *I love solving real-world problems with code*
 
----
+---## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+ 1. [Vet management system](https://vet-management-system.vercel.app/)
+ 2. [Movies website](https://react-movies-lac.vercel.app/)
+ 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 5. [Positivus Landing Page](https://positivus-blond-six.vercel.app/)
+ 6. [Blog for all developers](https://developers-home.vercel.app/)
+ 7. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
+ 8. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
 
 ## 🛠️ Tech Stack
 <p align="center">
