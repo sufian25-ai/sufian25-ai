@@ -30,10 +30,10 @@
 
 ---## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [RealState](https://wordpress.msufian.xyz/)
+ 1. [RealState](https://realstate.xetroot.com/)
  2. [Movies website](https://react-movies-lac.vercel.app/)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 4. [Organic Store](https://wordpress.msufian.xyz/)
  5. [Positivus Landing Page](https://positivus-blond-six.vercel.app/)
  6. [Blog for all developers](https://developers-home.vercel.app/)
  7. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
