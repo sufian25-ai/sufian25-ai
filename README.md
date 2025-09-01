@@ -1,3 +1,12 @@
+<h1 align="center">Hello,👨‍💻I'm Mahbub Sufian</h1>
+
+<a target="_blank" href="https://github.com/esteham"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
+<br>
+<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">
+
+<h3 align="left">🚀 About Me</h3>
+<h4 align="center">I am a developer from Bangladesh</h4>
+<p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,40 +37,25 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sufian25-ai&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufian25-ai&layout=compact&theme=tokyonight" height="165" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
+<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 </p>
-
+  
+<h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sufian25-ai&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sufian25-ai&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a hre="https://github.com/sufian25-ai">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sufian25-ai&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
   </a>
-  <a href="mailto:msufianbd92@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=About.me&logoColor=white" />
+   <a hre="https://github.com/esteham">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufian25-ai&layout=compact&langs_count=8&theme=material-palenight&count_private=true" />
   </a>
 </p>
+<br>
 
----
+<h3>🌟Contribute</h3>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sufian25-ai&" alt="esteham" /></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sufian25-ai&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+ekta professinal git style dao
